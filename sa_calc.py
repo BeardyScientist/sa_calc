@@ -1,22 +1,3 @@
-# TO DO LIST
-# *******************
-
-# ESSENTIAL
-
-# DESIRABLE
-# Make into an excecutable
-
-# NICE TO HAVE
-# Make so it can accept a list of percentile values and will plot them each over each other.
-# Size gating functionality
-# Make it so you can pass arguments straight from terminal 
-# Make it into a library people can import into their own code
-# Put minor functions into the “processed_data()” function
-
-
-
-
-
 # DEPENDENCIES 
 
 import os
